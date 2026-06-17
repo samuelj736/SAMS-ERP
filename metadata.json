@@ -1,0 +1,6 @@
+{
+  "name": "Flower Business ERP",
+  "description": "Filament-inspired custom ERP for flower wholesale, retail, recipes, production, stock ledger, expenses, attendance, and Laravel 12 code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
